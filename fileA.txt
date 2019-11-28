@@ -1,2 +1,3 @@
 ABCDE
 test new line
+ABCDFF
